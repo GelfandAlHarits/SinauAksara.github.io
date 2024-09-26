@@ -22,6 +22,11 @@ h1 {
   padding-left: 100px;
 }
 
+h2 {
+  font-family: "Georgia", serif;
+  padding-left: 100px;
+}
+
 .sumber {
   padding-left: 380px;
   font-size: 15px;
@@ -62,10 +67,7 @@ h1 {
     padding-left: 20px;
     font-size: 1.5rem;
   }
-  h2 {
-    padding-left: 20px;
-    font-size: 1.5rem;
-  }
+  
 
   .deskripsi {
     padding-left: 20px;
